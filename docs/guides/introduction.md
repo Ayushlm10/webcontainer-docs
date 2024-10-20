@@ -33,9 +33,9 @@ WebContainers enables you to build applications that previously required running
 - **Unmatched user experience.** No latency. Faster than localhost. Works offline.
 - **Cost effective.** Compute is done locally. No paying by the minute for cloud VMs.
 - **Scales to millions.** Leverages modern CDN caching and client-side compute.
-- **No risk of bad actors.** Say goodbyte to bitcoin miners, malware, and phishing sites.
+- **No risk of bad actors.** Say goodbye to bitcoin miners, malware, and phishing sites.
 
-If you want to skip [the Quickstart guide](./quickstart) and jump stright into exploring the API, you can open the WebContainer starter project in StackBlitz here:
+If you want to skip [the Quickstart guide](./quickstart) and jump straight into exploring the API, you can open the WebContainer starter project in StackBlitz here:
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://webcontainer.new)
 
